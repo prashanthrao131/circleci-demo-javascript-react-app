@@ -8,3 +8,4 @@ workflows:
     jobs:
       - node/test
 -store_test_results:
+path: test
